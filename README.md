@@ -1,4 +1,4 @@
-![Logo](https://github.com/mycodewolrd/Github-Interface/assets/127790354/ecc1ba1a-d8f2-4bfe-ab39-d099be2a6746)
+![Logo](https://github.com/mycodewolrd/mycodewolrd/assets/127790354/1d6c858c-fda1-488b-9d84-6354d008af84)
 
 # Hi there, I'm Rajnandini Patra👋 
 <h4>I'm a MERN Stack Developer👨‍💻 on a mission to create digital wonders⭐.  <br>Let's build something awesome together!!!🚀</h4>
