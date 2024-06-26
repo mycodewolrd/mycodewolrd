@@ -24,7 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mycodewolrd&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## Hi there 👋
 
 <!--
 **mycodewolrd/mycodewolrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
