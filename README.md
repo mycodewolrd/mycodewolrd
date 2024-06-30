@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Frameworks, backend etc...<br>👯 I’m looking to connect you in LinkdIn <br>🤝 I’m looking to learn more about technical skills<br>🌱 I’m currently learning Frameworks, Libraries etc...<br>💬 Ask me about JavaScript, react
+🔭 I’m currently working on self growth...<br>👯 I’m looking to connect you in LinkdIn <br>🤝 I’m looking to learn more about technical skills<br>🌱 I’m currently learning JavaScript Frameworks, Libraries...<br>💬 Ask me about JavaScript, react
 
 
 ## 🌐 Socials:
